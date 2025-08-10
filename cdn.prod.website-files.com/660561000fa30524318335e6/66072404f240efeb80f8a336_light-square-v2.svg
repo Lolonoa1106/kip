@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="light-square" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 280.4 168.6" style="enable-background:new 0 0 280.4 168.6;" xml:space="preserve">
+<g id="light-square-group">
+	<g>
+		<polygon style="fill:var(--colour, #59fafa);" points="140.4,59 184.1,84.2 140.4,109.5 96.8,84.2 		"/>
+	</g>
+	<g id="light-square-pulse">
+		<polygon style="fill:none;stroke:var(--colour, #59fafa);stroke-width:1.4855;stroke-miterlimit:10;" points="140.4,9.3 270.2,84.2 140.4,159.2 
+			10.7,84.2 		"/>
+	</g>
+</g>
+<g style="opacity:0.1;">
+	<polygon style="fill:var(--colour, #59fafa);" points="140.4,52.2 195.8,84.2 140.4,116.3 85.1,84.2 	"/>
+</g>
+<g style="opacity:0.3;">
+	<polygon style="fill:var(--colour, #59fafa);" points="140.4,55 191.1,84.2 140.4,113.5 89.8,84.2 	"/>
+</g>
+<g style="opacity:0.3;">
+	<polygon style="fill:var(--colour, #59fafa);" points="140.4,57.2 187.2,84.2 140.4,111.3 93.7,84.2 	"/>
+</g>
+</svg>
